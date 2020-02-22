@@ -1,10 +1,10 @@
-# HeartDisease_AnalysisandEvaluation
+# HeartDisease_Prediction_and_Evaluation
 
 World Health Organization has estimated that four out of five cardiovascular diseases(CVD) deaths are due to heart attacks .
-This whole research intends to pinpoint the ratio of patients who possess a good chance of being affected by CVD and also to predict the overall risk using #####Logistic Regression .
+This whole research intends to pinpoint the ratio of patients who possess a good chance of being affected by CVD and also to predict the overall risk using Logistic Regression .
 
 ### What is Logistic Regression ?
-Logistic Regression(https://machinelearningmastery.com/logistic-regression-for-machine-learning/) is a statistical and machine-learning techniques classifying records of a dataset based on the values of the input fields . It predicts a dependent variable based on one or more set of independent variables to predict outcomes .
+[Logistic Regression](https://machinelearningmastery.com/logistic-regression-for-machine-learning/) is a statistical and machine-learning techniques classifying records of a dataset based on the values of the input fields . It predicts a dependent variable based on one or more set of independent variables to predict outcomes .
 It can be used both for binary classification and multi-class  classification .
 
 
@@ -24,10 +24,10 @@ It can be used both for binary classification and multi-class  classification .
 
 ![Alt Text](Figure_4.jpg)
 
-###_Programming Language used in the project is :_
+### _Programming Language used in the project is :_
 1. Python 
 
-###_Packages-to-install :_
+### _Packages-to-install :_
 
  * pandas
  * pylab
@@ -38,4 +38,4 @@ It can be used both for binary classification and multi-class  classification .
  * mumpy
  * scipy
  
- *
+ 
