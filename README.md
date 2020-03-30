@@ -35,7 +35,7 @@ It can be used both for binary classification and multi-class  classification .
  * sklearn
  * seaborn
  * statsmodel
- * mumpy
+ * numpy
  * scipy
  
  
