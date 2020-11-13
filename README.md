@@ -1,6 +1,6 @@
-# <i> Together let's be more human </i> 
+# <i> Together let's be more human &#128519;</i> 
 
-## Let's Connect 🤘
+## <i> Let's Connect 🤘 </i>
 
 
 <br>
