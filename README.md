@@ -4,7 +4,7 @@
 
 
 <br>
-<a href="https://www.linkedin.com/in/parna-mondal/" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" style="text-align:center" alt="Parna Mondal" height="28" width="28"/></a>
+<a href="https://www.linkedin.com/in/parna-mondal/" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" margin-left: 80px; alt="Parna Mondal" height="28" width="28"/></a>
 
 
 # HeartDisease_Prediction_and_Evaluation
