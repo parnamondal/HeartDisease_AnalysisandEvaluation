@@ -1,3 +1,10 @@
+# Together let's be more human 
+
+## Let's Connect 🤘
+
+
+<br>
+<a href="https://www.linkedin.com/in/parna-mondal/" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" alt="Parna Mondal" height="28" width="28"/></a>
 # HeartDisease_Prediction_and_Evaluation
 
 World Health Organization has estimated that four out of five cardiovascular diseases(CVD) deaths are due to heart attacks .
